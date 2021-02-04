@@ -1,5 +1,5 @@
 # tls
-the little schemer
+the little schemer [[pdf](https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf)]
 
 ## Racket
 
